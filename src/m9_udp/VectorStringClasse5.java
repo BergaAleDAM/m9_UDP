@@ -4,6 +4,11 @@ public class VectorStringClasse5 {
 
     String[] v = new String[5];
 
+    public VectorStringClasse5() {
+    }
+
+    
+    
     public VectorStringClasse5(String[] v) {
         this.v = v;
     }
